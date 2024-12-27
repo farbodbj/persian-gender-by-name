@@ -14,7 +14,7 @@ A comprehensive dataset for determining gender based on Persian names, enriched 
 
 ## Overview
 
-The **Persian Gender Detection by Name** dataset is the largest of its kind, comprising approximately **22,000** entries. Each entry includes a Persian name, its corresponding gender, and the English transliteration. This dataset is designed to facilitate accurate gender detection and enhance searchability through multiple name representations.
+The **Persian Gender Detection by Name** dataset is the largest of its kind, comprising approximately **27,000** entries. Each entry includes a Persian name, its corresponding gender, and the English transliteration. This dataset is designed to facilitate accurate gender detection and enhance searchability through multiple name representations.
 
 ## Features
 
