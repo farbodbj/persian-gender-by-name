@@ -18,7 +18,7 @@ The **Persian Gender Detection by Name** dataset is the largest of its kind, com
 
 ## Features
 
-- **Extensive Data**: ~22,000 name-gender-English tuples.
+- **Extensive Data**: ~27,000 name-gender-English tuples.
 - **Multiple Representations**: Various spellings and formats for each name to improve search flexibility.
 - **High Quality**: Aggregated from reliable sources and meticulously hand-cleaned for accuracy.
 - **Expandable**: Plans to incorporate more names and data sources in the future.
