@@ -29,6 +29,7 @@ This dataset aggregates information from the following primary sources:
 
 - [Iranian Names Database By Gender](https://github.com/nikahd99/iranian-Names-Database-By-Gender)
 - [Persian Names Gender Dataset on Kaggle](https://www.kaggle.com/datasets/misssahar75/persian-names-gender)
+- [Persian Names with Gender and Transliteration Data](https://www.kaggle.com/datasets/titanz123/persian-names)
 
 Additionally, supplementary data was scraped and manually cleaned to ensure consistency and completeness.
 
