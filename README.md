@@ -64,6 +64,17 @@ Future updates will focus on:
 - Incorporating more diverse sources to cover a broader range of names.
 - Refining data quality through ongoing cleaning and validation processes.
 
+## Citaion
+```
+@dataset{bijary_persian_gender_by_name_2024,
+  author       = {Farbod Bijary},
+  title        = {Persian Gender Detection by Name},
+  year         = {2024},
+  publisher    = {Hugging Face},
+  license      = {Apache-2.0},
+  url          = {https://huggingface.co/datasets/farbodbij/persian-gender-by-name},
+}
+```
 ## Acknowledgments
 
 Thanks to the contributors of the original datasets and those who assisted in data aggregation and cleaning.
