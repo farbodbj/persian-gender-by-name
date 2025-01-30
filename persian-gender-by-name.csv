@@ -115,13 +115,10 @@ name,gender,english_name
 آتریا,f,atriya
 آتریداد,m,atridad
 آتریزاد,m,atri zad
-آتریسا,m,atrisa
 آتریسا,f,atrisa
-آترین,m,atarin
 آترین,f,atrin
-آترینا,m,atarina
 آترینا,f,atrina
-آترینه,m,atrineh
+آترینه,f,atrineh
 آتسا,f,atsa
 آتسز,m,atsez
 آتش,f,atash
@@ -209,7 +206,7 @@ name,gender,english_name
 آدریانوس,m,adriyanus
 آدریل,m,adriel
 آدرین,m,adarin
-آدرینا,m,adarina
+آدرینا,f,adarina
 آدسای,m,adsay
 آدشرین,m,adsharin
 آدشیرین,f,adshirin
@@ -309,7 +306,7 @@ name,gender,english_name
 آذرمهربرزین,m,azar mehrbarzin
 آذرمیدخت,f,azarmidokht
 آذرمینا,f,azarmina
-آذرمینا,m,azar mina
+آذرمینا,f,azar mina
 آذرنرسی,m,azarnarsi
 آذرنوش,f,azar nush
 آذرنگ,f,azarang
@@ -335,7 +332,7 @@ name,gender,english_name
 آذریون,f,azariyun
 آذین,f,azin
 آذین,m,azin
-آذین دخت,m,azar dokht
+آذر دخت,f,azar dokht
 آذین دخت,f,azin dokht
 آذین فر,m,azin far
 آذین گل,f,azin gol
@@ -360,7 +357,7 @@ name,gender,english_name
 آرال,m,aral
 آرالیا,f,araliya
 آرام,f,aram
-آرام خانم,m,aram khanom
+آرام خانم,f,aram khanom
 آرام دخت,f,aram dokht
 آرام دل,f,aram del
 آرامدخت,f,aram dokht
@@ -391,8 +388,7 @@ name,gender,english_name
 آرتانا,f,artana
 آرتاپارت,m,arta part
 آرتمن,m,arteman
-آرتمیز,m,artmiz
-آرتمیس,m,artemis
+آرتمیز,f,artmiz
 آرتمیس,f,artemis
 آرتن,m,artan
 آرتنوس,f,artnos
@@ -402,7 +398,6 @@ name,gender,english_name
 آرتوش,m,artosh
 آرتوم,m,artum
 آرتون,m,artun
-آرتونیس,m,artonis
 آرتونیس,f,artonis
 آرتی,m,arti
 آرتیا,m,artia
@@ -428,7 +423,6 @@ name,gender,english_name
 آرزم,m,arazm
 آرزو,f,arezu
 آرزو گل,f,arezoo gol
-آرزوو,f,arezoo
 آرزوگل,f,arezogol
 آرزی گول,f,arezoo gool
 آرزیتا,f,arzita
@@ -481,16 +475,14 @@ name,gender,english_name
 آرمودیان,m,armodiyan
 آرمیا,m,armiya
 آرمیتا,f,armita
-آرمیتا,m,armita
 آرمیتان,f,armitan
 آرمیتاژ,f,armitazh
-آرمیتی,m,armiti
+آرمیتی,f,armiti
 آرمیدخت,f,armi dokht
 آرمیس,f,armis
 آرمیلا,f,armila
 آرمین,m,armin
 آرمین دخت,f,armindokht
-آرمینا,m,armina
 آرمینا,f,armina
 آرمیندخت,f,armindokht
 آرمینه,m,armineh
@@ -568,20 +560,19 @@ name,gender,english_name
 آریان,m,ariyan
 آریان,f,arian
 آریان رضا,m,ariyan reza
-آریانا,m,ariana
-آریانا,m,ariyana
+آریانا,f,ariana
+آریانا,f,ariyana
 آریاناز,f,arianaz
-آریاناز,m,ariya naz
-آریانه,m,ariyane
+آریاناز,f,ariya naz
+آریانه,f,ariyane
 آریانوش,f,arianoush
-آریانوش,m,ariya nush
 آریانیک,m,aryanik
 آریاوا,m,ariyava
 آریاوش,m,aryavash
 آریاچهر,m,ariya chehr
 آریاک,m,ariyak
 آریاگیو,m,aryagiv
-آریتا,m,arita
+آریتا,f,arita
 آریتما,m,aritma
 آریز,m,ariz
 آریس,m,aris
@@ -645,7 +636,6 @@ name,gender,english_name
 آزرمان,m,azarman
 آزرمدخت,f,azarmadokht
 آزرمگان,m,azarmagan
-آزرمیدخت,m,azarmi dokht
 آزرمیدخت,f,azarmidokht
 آزرمین,m,azarmin
 آزرو,f,azar
@@ -707,7 +697,6 @@ name,gender,english_name
 آسیم,m,asim
 آسیمن,f,asiman
 آسیمه,f,asimeh
-آسیه,m,asiye
 آسیه,f,asiyeh
 آسیه بیکم,f,asiyeh bikam
 آسیه بیگم,f,asiyeh begom
@@ -827,7 +816,7 @@ name,gender,english_name
 آلما,f,alma
 آلمارا,f,almara
 آلماز,f,almaz
-آلماگل,m,alma gol
+آلماگل,f,alma gol
 آلن,m,alan
 آلنام,f,alnam
 آلند,f,aland
@@ -885,7 +874,6 @@ name,gender,english_name
 آمیتریس,f,amitris
 آمیتیدا,f,amitida
 آمیتیس,f,amitis
-آمیتیس,m,amitis
 آمین,m,amin
 آمینه,f,amineh
 آن,f,آن
@@ -920,10 +908,7 @@ name,gender,english_name
 آناهل,f,anahel
 آناهیت,m,anahit
 آناهیتا,f,anahita
-آناهیتا,m,anahita
-آناهید,f,anaahid
 آناهید,f,anahid
-آناهید,m,anahid
 آناپلاد,f,anaplad
 آناک,f,anak
 آناگ,m,anag
@@ -937,7 +922,6 @@ name,gender,english_name
 آنجلا,f,angela
 آندروش,m,androosh
 آندریا,f,andria
-آندیا,m,andiya
 آندیا,f,andiya
 آنس,f,aans
 آنسه,f,anese
@@ -1131,10 +1115,9 @@ name,gender,english_name
 آیحان,m,ayhan
 آیخان,m,ayxan
 آیدا,f,aida
-آیدا,m,ayda
+آیدا,f,ayda
 آیدان,f,aidan
-آیدان,m,aydan
-آیدانا,m,aydana
+آیدانا,f,aydana
 آیدغدی,m,aydighdi
 آیدل,f,aydel
 آیدن,m,ayden
@@ -1179,11 +1162,9 @@ name,gender,english_name
 آیفر,m,ay far
 آیقان,m,aighan
 آیقین,m,ayghin
-آیلا,m,ayla
-آیلار,m,ay lar
+آیلا,f,ayla
 آیلار,f,ailar
 آیلان,f,aylan
-آیلر,m,ay lar
 آیلر,f,aylar
 آیلما,f,aylma
 آیلی,m,ayli
@@ -1284,7 +1265,6 @@ name,gender,english_name
 ابرار,m,abrar
 ابرارها,m,abrarha
 ابراسیم,m,abrasim
-ابرامیم,m,ebramim
 ابران,m,abran
 ابراهیم,m,ebrahim
 ابراهیم اذر,m,ebrahim azar
@@ -1843,13 +1823,13 @@ name,gender,english_name
 ارمکان,m,ermakan
 ارمیا,m,ermiya
 ارمیا,m,armiya
-ارمیندخت,m,armin dokht
+ارمیندخت,f,armin dokht
 ارناز,f,arnaz
 ارناک,m,arnak
 ارنواز,f,arnavaz
 ارنوش,f,arnoosh
 ارنیا,f,arniya
-ارنیکا,m,arnica
+ارنیکا,f,arnica
 ارهام,m,erham
 ارو جعلی,m,aroo ja'ali
 ارواد,m,arvad
@@ -1914,7 +1894,6 @@ name,gender,english_name
 ازدا,m,azda
 ازدر,m,azdar
 ازده,m,azadeh
-ازر می‌دخت,m,azar midadokht
 ازرع,m,azra'
 ازل,f,azal
 ازلان,m,azlan
@@ -1962,8 +1941,6 @@ name,gender,english_name
 اسحر,m,esfar
 اسحق,m,ashagh
 اسحق علی,m,eshaq ali
-اسحگ,m,eshagh
-اسخق,m,eshgh
 اسد,m,asad
 اسد الله,m,asadollah
 اسد اله,m,asadollah
@@ -2091,7 +2068,6 @@ name,gender,english_name
 اشتیاق,m,eshtiyagh
 اشجان,f,ashjan
 اشدبانو,f,eshdebanoo
-اشر ف,f,ashraf
 اشر گلدی,f,ashar goldi
 اشراف,f,ashraf
 اشراق,m,eshragh
@@ -3443,12 +3419,9 @@ name,gender,english_name
 انیبا,f,aniba
 انیران,f,aniran
 انیس,f,anis
-انیس,m,anis
-انیس اغا,m,anis agha
+انیس اغا,f,anis agha
 انیسا,f,anisa
-انیسا,m,anisa
 انیسه,f,aniseh
-انیسه,m,anise
 انیسون,f,anison
 انیسی,f,anisi
 انیفه,f,anifeh
@@ -3706,7 +3679,6 @@ name,gender,english_name
 ایدین,m,aydin
 ایدینگ,m,aiding
 ایر,m,eir
-ایر ج,m,eiraj
 ایراث,m,iras
 ایراج,m,iraj
 ایرامان,m,eraman
@@ -3716,7 +3688,6 @@ name,gender,english_name
 ایران تاج,f,iran taj
 ایران خانم,f,iran khanom
 ایران دخت,f,iran dokht
-ایران دوخت,f,iran dokht
 ایران زمان,f,iran zaman
 ایران ناز,f,irān nāz
 ایران پناه,m,iran panah
@@ -3743,7 +3714,6 @@ name,gender,english_name
 ایرج تاج,f,iraj taj
 ایرج دخت,f,iraj dokht
 ایرجعلی,m,irajali
-ایرسا,m,irsa
 ایرسا,f,irsa
 ایرما,f,irma
 ایرمان,m,irman
@@ -3888,8 +3858,6 @@ name,gender,english_name
 ایلیکا,f,ilika
 ایلیگان,m,iligan
 ایما,f,eima
-ایما,m,ima
-ایما ن,m,eiman
 ایماء,f,emaa
 ایماان,m,emaan
 ایماز,m,imaz
@@ -4016,10 +3984,10 @@ name,gender,english_name
 باتینوک,f,batinok
 باتینک,f,batink
 باجلان,m,bajelan
-باجی,m,baji
-باجی خانم,m,baji khanom
-باجی قز,m,baji qaz
-باجی گل,m,baji gol
+باجی,f,baji
+باجی خانم,f,baji khanom
+باجی قز,f,baji qaz
+باجی گل,f,baji gol
 باختر,f,bakhtar
 باد محمد,m,bad mohammad
 بادام,f,badam
@@ -4771,7 +4739,7 @@ name,gender,english_name
 بنی الله,m,bani allah
 بنی اله,m,bani allah
 بنی بخش,m,boni bakhsh
-بنی خاتون,m,boni khatoon
+بنی خاتون,f,boni khatoon
 بنی مهد,m,boni mahd
 بنیا,f,baniya
 بنیام,m,benyam
@@ -4804,7 +4772,6 @@ name,gender,english_name
 بهآیین,m,behayin
 بها,m,baha
 بها الدین,m,bahā' al-dīn
-بها ره,f,bahareh
 بها رگل,f,baha regal
 بها،,f,baha
 بهاء,f,bahaa
@@ -4933,9 +4900,7 @@ name,gender,english_name
 بهروش,m,behroosh
 بهروی,m,behrouh
 بهریش,m,bahrish
-بهر‌ام,m,bahram
-بهزا,m,behza
-بهزا د,m,behzad
+بهرام,m,bahram
 بهزاد,m,beh zad
 بهزاد رضا,m,behzad reza
 بهزاد علی,m,behzad ali
@@ -5025,9 +4990,8 @@ name,gender,english_name
 بهین دخت,f,behin dokht
 بهینا,f,behina
 بهینا,m,behina
-بهیندخت,m,behin dokht
+بهیندخت,f,behin dokht
 بهینمهر,m,behin mehr
-بهینه,m,behineh
 بهینه,f,behineh
 بهیه,m,behiyeh
 بهیه,f,bahiyeh
@@ -5201,7 +5165,6 @@ name,gender,english_name
 بیدالله,m,bidollah
 بیداله,m,bidaleh
 بیدخت,f,bidokht
-بیدخت,m,bidokht
 بیدل,m,bi del
 بیدمشک,m,meshk bid
 بیده مونا,f,bideh mona
@@ -5249,8 +5212,8 @@ name,gender,english_name
 بیمانه,m,bimāneh
 بیمت,m,bimet
 بیمن,m,bimen
-بینا,m,bina
-بینادخت,m,binadokht
+بینا,f,bina
+بینادخت,f,binadokht
 بینر,m,binar
 بینش,m,binesh
 بینظیر,m,bi nazir
@@ -5272,7 +5235,6 @@ name,gender,english_name
 بیوگ خانم,f,biog khanom
 بیوی,f,bivi
 بیچم,f,bicham
-بیژ ن,m,bijan
 بیژن,m,bijan
 بیژن علی,m,bijan ali
 بیژنگ,m,bijang
@@ -5994,7 +5956,6 @@ name,gender,english_name
 تیمور پاشا,m,timur pasha
 تیمورتاش,m,timurtash
 تینا,f,tina
-تینا,m,tina
 تیناب,f,tinab
 تینو,m,tino
 تینوش,f,tinush
@@ -6052,9 +6013,7 @@ name,gender,english_name
 ثمین,m,samin
 ثمین,f,samīn
 ثمینا,f,samina
-ثمینا,m,samina
 ثمینه,f,samineh
-ثمینه,m,samineh
 ثمیه,f,somayeh
 ثنا,f,sana
 ثنا اله,f,sena allah
@@ -7182,8 +7141,6 @@ name,gender,english_name
 حمود,m,hamud
 حمکت اله,m,hekmatollah
 حمی,m,hami
-حمی د,m,hamid
-حمیثد,m,hamid
 حمید,m,hamid
 حمید الله,m,hamid allah
 حمید اله,m,hamidollah
@@ -7257,8 +7214,8 @@ name,gender,english_name
 حنیف,m,hanif
 حنیف رضا,m,hanifreza
 حنیفا,m,hanifa
-حنیفه,m,hanifeh
-حنیفه,m,hanife
+حنیفه,f,hanifeh
+حنیفه,f,hanife
 حنین,m,hanin
 حنین,m,honayn
 حو ریه,f,havrieh
@@ -7293,7 +7250,6 @@ name,gender,english_name
 حورشید,m,hoorshid
 حورناز,f,hur naz
 حوروش,f,howrvash
-حوری,m,huri
 حوری,f,houri
 حوری بانو,f,houri banoo
 حوری بیگم,f,houri bigam
@@ -7621,7 +7577,6 @@ name,gender,english_name
 خدا ویردی,m,khoda virdi
 خدا ویرند,m,khoda virand
 خدا پرست,m,khoda parast
-خدا کر م,m,khoda karam
 خدا کرم,m,khoda karam
 خدا کریم,m,khoda karim
 خدا یار,m,khodayar
@@ -7688,7 +7643,6 @@ name,gender,english_name
 خدمت علی,m,khadmat ali
 خدمتعلی,m,khadamatali
 خدیجه,f,khadijeh
-خدیجه,m,khadije
 خدیجه بانو,f,khadijeh banu
 خدیجه بیگم,f,khadijeh bigam
 خدیجه بی‌بی,f,khadijeh bi bi
@@ -7720,7 +7674,7 @@ name,gender,english_name
 خردادبه,m,khordad beh
 خردمند,m,kharadmand
 خرده,m,khorde
-خرده خانم,m,khorde khanom
+خرده خانم,f,khorde khanom
 خردیار,m,kharad yar
 خرزاد,m,kharsad
 خرزانه,m,kharzaneh
@@ -7764,7 +7718,6 @@ name,gender,english_name
 خزه,m,khaze
 خزیان,m,khaziyan
 خستو,m,khastu
-خسر و,m,khasar
 خسرو,m,khosrow
 خسرو الدین,m,khosrow al-din
 خسرو خان,m,khosrow khan
@@ -8029,14 +7982,6 @@ name,gender,english_name
 خیزران,m,kheyzaran
 خیضران,f,kheydaran
 خیلیل,m,khaylil
-د ا و د,m,davood
-د ا ود,m,dāvud
-د اریوش,m,d aryush
-د صدیقه,f,do sadiqe
-د لارام,f,d laram
-د محمد,m,do mohammad
-دا ر یو ش,m,daryush
-دا وود,m,davood
 دا پلا,m,da pala
 دائمه,f,dame
 داتام,m,datam
@@ -8119,7 +8064,7 @@ name,gender,english_name
 دارگل,f,dar gol
 داریا,f,darya
 داریا,m,dariya
-داریادخت,m,dariya dokht
+داریادخت,f,dariya dokht
 داریان,m,dariyan
 داریاو,m,daryav
 داریس,m,daris
@@ -8180,7 +8125,6 @@ name,gender,english_name
 دانیل,m,daniel
 داهیه,m,dahiye
 داو,m,dav
-داو د,m,davood
 داواد,m,davood
 داوار,m,davar
 داود,m,davood
@@ -8370,7 +8314,7 @@ name,gender,english_name
 دلاوا,f,delava
 دلاور,m,del avar
 دلاور شریف,m,delavar sharif
-دلاویز,m,delaviz
+دلاویز,f,delaviz
 دلاوین,f,delavin
 دلاویژ,m,del avizh
 دلایت,m,delayat
@@ -8614,7 +8558,6 @@ name,gender,english_name
 دیوانعلی,m,divanali
 دیوید,m,david
 دیکران,m,dikran
-ذ بیح ا,m,zabih
 ذات الله,m,zatollah
 ذات اله,m,zatollah
 ذاریوش,m,dariush
@@ -8705,30 +8648,23 @@ name,gender,english_name
 ذینب,m,zeynab
 ذینت,m,zinat
 ذیوق علی,m,ziyavq ali
-ر ا و یه,m,ravieh
-ر با به,m,r ba beh
-ر حما ن,m,rahman
-ر حیم,m,rahim
-ر حیمی,m,rahimi
-ر خسا ر ه,m,rakhsaareh
-ر خشند ه,m,rakhshandeh
-ر سول,m,r sol
-ر فیع,m,rafi'
-ر قیه,f,roghieh
-ر مضان,m,r ramazan
-ر مضانعلی,m,r mozanali
-ر و ح ا له,m,rohale
-ر وزعلی,m,roozali
+ربابه,f,rbabeh
+رحمان,m,rahman
+رحیم,m,rahim
+رخساره,f,rakhsaareh
+رخشنده,f,rakhshandeh
+رفیع,m,rafi'
+رقیه,f,roghieh
+رمضان,m,r ramazan
 رأفت,f,rafat
 رأفتالله,m,rafatollah
-رؤیا,m,roya
 رؤیا,f,royā
 رئو,m,reo
 رئوف,m,rauf
 رئوفه,f,raufeh
-را ضیه,f,raziyeh
-را میار,m,ra miar
-را مین,m,ra min
+راضیه,f,raziyeh
+رامیار,m,ra miar
+رامین,m,ra min
 رائف,m,raef
 رائین,m,rain
 رائیک,m,raeek
@@ -9245,7 +9181,6 @@ name,gender,english_name
 رشیدالدین,m,rashidoddin
 رشیدالدین,m,rashid al-din
 رشیدعلی,m,rashid ali
-رشیده,m,rashide
 رشیده,f,rashideh
 رشیدی,m,rashidi
 رشینا,m,rashina
@@ -9297,7 +9232,6 @@ name,gender,english_name
 رضیالدین,m,raziyoddin
 رضیع,m,razi'
 رضیه,f,razieh
-رضیه,m,raziye
 رضیه خاتون,f,razieh khatoon
 رطابه,m,ratabeh
 رظ,m,razh
@@ -9306,7 +9240,7 @@ name,gender,english_name
 رعد الوان,m,ra'd alvan
 رعده,m,ra'adeh
 رعفت,m,ra'fat
-رعفت الملوک,m,ra'fat al-muluk
+رعفت الملوک,f,ra'fat al-muluk
 رعنا,f,raena
 رعناء,f,ra'na
 رعوف,m,ra'uf
@@ -9585,8 +9519,8 @@ name,gender,english_name
 روفعت,f,ruf'at
 روفلا,f,rofla
 روفیا,f,rufia
-روفیاء,m,rufiya
-روفیده,m,ravideh
+روفیاء,f,rufiya
+روفیده,f,rufideh
 روقیه,f,roghieh
 رول,m,roul
 روم,m,room
@@ -9596,7 +9530,6 @@ name,gender,english_name
 روماک,m,romak
 رومل,m,romel
 رومیسا,f,romisa
-رومینا,m,romina
 رومینا,f,romina
 رومیه,f,romiyeh
 رونا,f,rona
@@ -9643,9 +9576,9 @@ name,gender,english_name
 روژیار,m,ruzhyar
 روژیار,f,roozhiyar
 روژیتا,f,rozhita
-روژین,m,ruzhin
+روژین,f,ruzhin
 روژین,f,rojin
-روژینا,m,ruzhina
+روژینا,f,ruzhina
 روژینا,f,rojina
 روژییار,f,rozhiyar
 روکال,f,rokal
@@ -9755,11 +9688,7 @@ name,gender,english_name
 رییس بگ,m,riis beg
 رییس مراد,m,rayis morad
 رییسه,f,riiseh
-ز اکر,m,za akar
-ز هر ا,f,zahar
-ز هر ه,f,z har h
-ز ینب خا تو ن,f,zeynab khatoon
-زئوس,f,zeus
+زئوس,m,zeus
 زائان,m,zaan
 زائر,m,zayer
 زائره,f,zaere
@@ -9781,7 +9710,6 @@ name,gender,english_name
 زارا,f,zara
 زارع,m,zareh
 زارع کلینی,m,zare' koliini
-زارعی,m,zarei
 زارمیک,m,zarmik
 زاشد,m,zashd
 زاضیه,f,zazieh
@@ -10021,7 +9949,7 @@ name,gender,english_name
 زلیجا,f,zalijā
 زلیخ,f,zalikh
 زلیخا,f,zolikhā
-زلیخا,m,zoleykha
+زلیخا,f,zoleykha
 زلیخاه,f,zolikhah
 زلیخواه,f,zolikhah
 زلیما,m,zalima
@@ -10114,7 +10042,6 @@ name,gender,english_name
 زهره حسین,f,zohreh hossein
 زهره خان,f,zohreh khan
 زهری,f,zahra
-زهزا,f,zahra
 زهمرا,f,zahmara
 زهنت,f,zahnat
 زهه,f,zaheh
@@ -10256,7 +10183,6 @@ name,gender,english_name
 زینالله,m,zeinollah
 زیناوند,m,zinavand
 زینب,f,zeynab
-زینب,m,zeynab
 زینب السادت,f,zeynab al-sadat
 زینب بانو,f,zeynab banu
 زینب بیگم,f,zeynab begum
@@ -10265,18 +10191,17 @@ name,gender,english_name
 زینب خاتون,f,zeynab khatoon
 زینب خانم,f,zeynab khanom
 زینب خواتون,f,zeynab khavatoon
-زینب گل,m,zeynabgol
+زینب گل,f,zeynabgol
 زینبب,f,zeynab
 زینبه,f,zeynab
 زینبچ,f,zeynabch
-زینت,m,zinat
 زینت,f,zinat
 زینت الزمان,f,zinat al-zaman
 زینت السادت,f,zinat al-sadat
 زینت خاتون,f,zinat khatoon
 زینت خواتون,f,zinat khatoon
 زینت طلا,f,zinat tala
-زینتالشریعه,m,zinatoshshariee
+زینتالشریعه,f,zinatoshshariee
 زینتی,f,zeyneti
 زینعلی,m,zeinali
 زینل,f,zeynol
@@ -10302,16 +10227,10 @@ name,gender,english_name
 زیینده,f,ziyande
 سئودا,f,seoda
 سئوگی,f,seogi
-سا حله,f,sā haleh
-سا ر ا,f,sara
-سا را,f,sara
-سا سان,m,sa san
-سا لار,m,saalar
-سا مان,m,saman
-سا مرند,m,sa marand
-سا مره,f,sa mareh
-سا نا ز,f,sanaaz
-سا ناز,f,sa naz
+ساله,f,sāhaleh
+سامرند,m,samarand
+سامره,f,samareh
+ساناز,f,sanaz
 سائب,m,saeb
 سااسان,m,saasaan
 سابر,m,saber
@@ -10517,7 +10436,6 @@ name,gender,english_name
 سامیز,m,samiz
 سامیلا,f,samila
 سامین,m,samin
-سامینا,m,samina
 سامینا,f,samina
 سامینه,f,samineh
 سامیه,f,samiyeh
@@ -10919,8 +10837,8 @@ name,gender,english_name
 سروین,m,sarvin
 سروین,f,sarvin
 سروینا,f,sarvina
-سرویندخت,m,sarvin dokht
-سروینه,m,sarvine
+سرویندخت,f,sarvin dokht
+سروینه,f,sarvine
 سرژیک,m,sarzhiak
 سرکب,m,sarkab
 سرکش,m,sarkesh
@@ -11057,8 +10975,6 @@ name,gender,english_name
 سغدیان,m,soghdiyan
 سغرا,f,soghra
 سغری,f,soghri
-سغید,m,saghid
-سغیده,m,saghideh
 سف الله,m,safollah
 سفر,m,safar
 سفر علی,m,safar ali
@@ -11262,7 +11178,6 @@ name,gender,english_name
 سمیر ا,f,samir
 سمیر محمود,m,samir mahmoud
 سمیرا,f,samira
-سمیرا,m,samira
 سمیرا بیگم,f,samira bigam
 سمیرا میس,f,semiramis
 سمیراء,f,samira
@@ -24578,8 +24493,7 @@ name,gender,english_name
 پرنیا ز,f,parnia z
 پرنیاز,f,parniaz
 پرنیان,f,parnian
-پرنیان,m,parniyan
-پرنیانه,m,parniyane
+پرنیانه,f,parniyane
 پرنین,f,parnin
 پرنیک,f,parnik
 پرنیکا,m,parnika
