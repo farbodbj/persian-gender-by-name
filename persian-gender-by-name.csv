@@ -11401,7 +11401,7 @@ name,gender,english_name
 سوشیانس,m,soshyans
 سوفرا,m,sofra
 سوفی,f,sufi
-سوفیا,m,sufiya
+سوفیا,f,sufiya
 سوفیا,f,sofia
 سوقات,f,sogat
 سوقیه,f,souqieh
@@ -11509,9 +11509,9 @@ name,gender,english_name
 سپید,f,sepid
 سپید دخت,f,sepid dokht
 سپیدار,f,sepidar
-سپیدخت,m,sepid dokht
-سپیدرو,m,sepid ru
-سپیده,m,sepide
+سپیدخت,f,sepid dokht
+سپیدرو,f,sepid ru
+سپیده,f,sepide
 سپیده,f,sepideh
 سپیده خانم,f,sepideh khanom
 سپیده سمیرا,f,sepideh samira
@@ -11519,10 +11519,9 @@ name,gender,english_name
 سپیده صغری,f,sepideh soghri
 سپیده مهتاب,f,sepideh mahtab
 سپیده گل,f,sepideh gol
-سپیدهخ,f,sepideh
-سپیناز,m,sepinaz
-سپینود,m,sepinood
-سپینود,m,sepinud
+سپیناز,f,sepinaz
+سپینود,f,sepinood
+سپینود,f,sepinud
 سکبنه,f,sakbaneh
 سکر,f,sakr
 سکندر,m,sekandar
@@ -11534,7 +11533,7 @@ name,gender,english_name
 سکیرا,f,sakira
 سکیمه,f,sakimeh
 سکینه,f,sakineh
-سکینه,m,sakine
+سکینه,f,sakine
 سکینه بگم,f,sakineh begom
 سکینه بیگم,f,sakineh begum
 سکینه خا نم,f,sakineh khanom
@@ -11547,7 +11546,6 @@ name,gender,english_name
 سی,m,si
 سی بل,f,si bel
 سی حسین,m,si hossein
-سی دبهزاد,m,si dabhezad
 سی سام,f,si sam
 سی سیماک,m,si simak
 سی عسگر,m,si asgar
@@ -11555,10 +11553,6 @@ name,gender,english_name
 سی گل,f,si gol
 سیا,m,sia
 سیا بخش,m,siyabakhsh
-سیا مند,m,siamand
-سیا مک,m,sia mak
-سیا و ش,m,sia va sh
-سیا وش,m,siyavash
 سیاب,m,siyab
 سیابخش,m,siyabakhsh
 سیابعلی,m,siyabali
@@ -11605,7 +11599,6 @@ name,gender,english_name
 سیحان,m,seyhan
 سیحون,m,seyhun
 سیدا,f,sida
-سیر وس,m,sir vas
 سیرا,f,sira
 سیرالله,m,seyrallah
 سیرامیر,m,siramir
@@ -11627,8 +11620,7 @@ name,gender,english_name
 سیروس کامبیز,m,sirous kambiz
 سیروسی,m,siroosi
 سیروش,m,siroosh
-سیرویس,m,sirvis
-سیرین,m,sirin
+سیرین,f,sirin
 سیز علی,m,siz ali
 سیزالله,m,sizallah
 سیعد,m,saeed
@@ -11708,19 +11700,19 @@ name,gender,english_name
 سیمین علویه,f,simin alaviyeh
 سیمین غدار,f,simin ghaddar
 سیمین چهر,f,simin chehr
-سیمینبر,m,siminbar
-سیمیندخت,m,simindokht
-سیمینرخ,m,siminrokh
-سیمینرو,m,siminru
-سیمینزر,m,siminzar
-سیمینعذار,m,simineezar
-سیمینفر,m,siminfar
-سیمینه,m,simine
+سیمینبر,f,siminbar
+سیمیندخت,f,simindokht
+سیمینرخ,f,siminrokh
+سیمینرو,f,siminru
+سیمینزر,f,siminzar
+سیمینعذار,f,simineezar
+سیمینفر,f,siminfar
+سیمینه,f,simine
 سیمینه,f,simineh
-سیمینچهر,m,siminchehr
+سیمینچهر,f,siminchehr
 سین,f,sin
 سینا,m,sina
-سینادخت,m,sinadokht
+سینادخت,f,sinadokht
 سینادر,m,sinadr
 سیناذ,m,sinaz
 سینار,m,sinar
@@ -11730,7 +11722,6 @@ name,gender,english_name
 سیناک,m,sinak
 سینداد,m,sindad
 سیندخت,f,sindokht
-سیندخت,m,sindokht
 سیندرلا,f,cinderella
 سینره,f,sinereh
 سینعلی,m,sinaali
