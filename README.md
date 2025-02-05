@@ -1,13 +1,3 @@
----
-license: apache-2.0
-language:
-- fa
-- en
-pretty_name: gendery by name persian
-size_categories:
-- 10K<n<100K
----
-
 # Persian Gender Detection by Name
 
 A comprehensive dataset for determining gender based on Persian names, enriched with English representations.
