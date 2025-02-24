@@ -1850,7 +1850,7 @@ name,gender,english_name
 اریدیس,f,oridis
 اریس,m,aris
 اریس,m,eris
-اریسا,m,arisa
+اریسا,f,arisa
 ارین,f,arin
 ارین دخت,f,arin dokht
 ارینا,f,arina
@@ -2005,7 +2005,6 @@ name,gender,english_name
 اسنفدیار,m,esfandiar
 اسنکدر,m,eskandar
 اسهاق,m,eshaq
-اسهعیل,m,sohail
 اسهق,m,eshaq
 اسهل,m,as'hal
 اسوار,m,asvar
@@ -10524,7 +10523,6 @@ name,gender,english_name
 ستایا,f,setaya
 ستایان,m,setayan
 ستایش,f,setayesh
-ستایش,f,setayesh
 ستایش زهرا,f,setayesh zahra
 سترا,m,setra
 سترگ,m,setorg
@@ -11214,7 +11212,7 @@ name,gender,english_name
 سهیده,f,sahideh
 سهیراد,m,sahirad
 سهیزاد,f,sahizad
-سهیل,m,soheyl
+سهیل,m,soheil
 سهیل,m,sohail
 سهیلا,f,sohaila
 سهیلا,f,soheyla
@@ -16412,7 +16410,7 @@ name,gender,english_name
 فرنواز,f,farnavaz
 فرنود,m,farnud
 فرنور,m,farnur
-فرنوش,f,far nush
+فرنوش,f,farnush
 فرنوشا,f,farnusha
 فرنک,m,farank
 فرنکیس,f,frankis
@@ -16532,26 +16530,23 @@ name,gender,english_name
 فریان,m,faryan
 فریانه,f,faryaneh
 فریب,f,farib
-فریبا,m,faryba
 فریبا,f,fariba
 فریبات,m,faribat
 فریبرز,m,fariborz
 فریبرز,m,faryborz
 فریبز,m,faribaz
-فریبزر,m,faribzar
 فریتا,m,farita
 فریتون,m,feriton
 فریجاد,m,farijad
 فریحا,f,fariha
-فریحناز,m,farihnaz
+فریحناز,f,farihnaz
 فریحه,m,farīheh
 فرید,m,farid
 فرید احمد,m,farid ahmad
 فرید الدین,m,farid al-din
 فرید الله,m,faridollah
 فرید رضا,m,farid reza
-فرید ون,m,farid van
-فریدا,m,farida
+فریدا,f,farida
 فریداحمد,m,farid ahmad
 فریداد,m,fari dad
 فریدالدین,m,faridoddin
@@ -16580,7 +16575,6 @@ name,gender,english_name
 فریروز علی,m,fariruz ali
 فریزه,f,farizeh
 فریس,m,faris
-فریسا,m,farisa
 فریسا,f,farisa
 فریسان,f,farisan
 فریشا,f,farisha
@@ -16593,20 +16587,18 @@ name,gender,english_name
 فریما,f,farima
 فریمان,m,fariman
 فریمانه,f,farimaneh
-فریمانه,m,farimane
+فریمانه,f,farimane
 فریماه,f,fari mah
 فریماه,f,farimah
 فریمن,m,fariman
 فریمند,m,farimand
 فریمه,f,farimeh
-فریمهر,m,fari mehr
-فرین,f,farid
-فرین,m,farin
+فریمهر,f,fari mehr
+فرین,f,farin
 فرین دخت,f,faridokht
 فرین گل,f,farīn gol
-فرینا,m,farina
 فرینا,f,farina
-فرینار,m,farinar
+فرینار,f,farinar
 فریناز,f,fari naz
 فریناز,f,farinaaz
 فرینام,f,farinam
@@ -17604,9 +17596,8 @@ name,gender,english_name
 ماریا,f,maria
 ماریا بتینا,f,maria betina
 ماریا بهین,f,maria behin
-ماریار,m,mariam
 ماریال,f,marial
-ماریام,m,mariam
+ماریام,f,mariam
 ماریان,f,mariyan
 ماریانا,f,mariana
 ماریتا,f,marita
@@ -23061,7 +23052,7 @@ name,gender,english_name
 هانیسا,f,hanisa
 هانیش,f,hanish
 هانیل,f,hanil
-هانیه,m,haniye
+هانیه,f,haniye
 هانیه,f,hanieh
 هانیه بیگم,f,hanieh bigam
 هانیهزهرا,f,haniyezahra
