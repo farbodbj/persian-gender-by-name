@@ -3654,7 +3654,6 @@ name,gender,english_name
 ایراث,m,iras
 ایراج,m,iraj
 ایرامان,m,eraman
-ایران,m,iran
 ایران,f,iran
 ایران بانو,f,iran banu
 ایران تاج,f,iran taj
@@ -5972,8 +5971,7 @@ name,gender,english_name
 ثمیره,f,samireh
 ثمیلا,m,samila
 ثمیله,m,samileh
-ثمین,m,samin
-ثمین,f,samīn
+ثمین,f,samin
 ثمینا,f,samina
 ثمینه,f,samineh
 ثمیه,f,somayeh
@@ -8193,7 +8191,7 @@ name,gender,english_name
 درگل,f,dor gol
 دری,f,dari
 دری,f,dorri
-دریا,m,darya
+دریا,f,darya
 دریا,f,darya
 دریا قلی,m,darya qoli
 دریادخت,f,darya dokht
@@ -8234,7 +8232,6 @@ name,gender,english_name
 دضا,m,doza
 دعا,f,doea
 دعبل,m,deebal
-دعلی اصغر,m,da'li asghar
 دعنا,f,da'na
 دعوت,m,da'vat
 دعیر,m,dahir
@@ -10057,7 +10054,7 @@ name,gender,english_name
 زیبده,f,zibdeh
 زیبر,m,zibar
 زیبنب,f,zibaneh
-زیبنده,m,zibande
+زیبنده,f,zibande
 زیبنده,f,zibandeh
 زیتب,f,zeytab
 زیتعلی,m,zeytali
@@ -12684,14 +12681,14 @@ name,gender,english_name
 شیخی,m,sheykhi
 شید,f,shid
 شید اله,m,sheydaalah
-شیدا,m,sheyda
+شیدا,f,sheyda
 شیداب,m,shidab
 شیدالله,m,shidollah
 شیدالله,m,sheydollah
 شیداله,m,shidaleh
 شیدان,f,sheydan
-شیدان,m,shidan
-شیدانه,m,shidaneh
+شیدان,f,shidan
+شیدانه,f,shidaneh
 شیدبانو,f,sheydbanu
 شیدخت,f,shidokht
 شیدر,f,shidor
@@ -12702,7 +12699,6 @@ name,gender,english_name
 شیدسب,m,shidasb
 شیدفر,m,shid far
 شیدمحمد,m,shaydmohammad
-شیده,m,shide
 شیده,f,shideh
 شیدور,m,shidvar
 شیدوس,m,shidus
@@ -16745,10 +16741,10 @@ name,gender,english_name
 فهنوش,m,fahnoosh
 فهیم,m,fahim
 فهیم رضا,m,fahimreza
-فهیما,m,fahima
-فهیمه,m,fahime
-فهیمه,m,fahimeh
-فهیمیه,m,fahimieh
+فهیما,f,fahima
+فهیمه,f,fahime
+فهیمه,f,fahimeh
+فهیمیه,f,fahimieh
 فهین,m,fahīn
 فهیه,m,faheyeh
 فواد,m,foad
@@ -16796,7 +16792,7 @@ name,gender,english_name
 فیروزعلی,m,firoozali
 فیروزمند,m,firuzmand
 فیروزمهر,m,firuzmehr
-فیروزه,m,firuze
+فیروزه,f,firuze
 فیروزه,f,firoozeh
 فیروزی,f,firoozi
 فیریزه,f,firizeh
@@ -17867,7 +17863,7 @@ name,gender,english_name
 ماهسار,f,mahsar
 ماهستی,f,mahsatti
 ماهسون,m,mahson
-ماهسیما,m,mahsima
+ماهسیما,f,mahsima
 ماهشاد,m,mahshad
 ماهشید,m,mahshid
 ماهصنم,f,mahsanam
@@ -20618,7 +20614,7 @@ name,gender,english_name
 مهیرا,f,mahira
 مهیره,f,mahire
 مهیسا,f,mahisa
-مهیسا,m,mahisa
+مهیسا,f,mahisa
 مهیشا,m,mahisha
 مهیلا,f,maheila
 مهیم,m,mahim
@@ -20626,7 +20622,7 @@ name,gender,english_name
 مهیمن,m,mohayman
 مهیمنه,f,mahimaneh
 مهیمه,f,mahimeh
-مهین,m,mehin
+مهین,f,mehin
 مهین,f,mahin
 مهین آغا,m,mahin agha
 مهین بانو,f,mahin banu
@@ -20640,7 +20636,7 @@ name,gender,english_name
 مهینخان,f,mahinkhan
 مهیندخت,f,mehindokht
 مهیندخت,f,mahindokht
-مهینرخ,m,mahin rokh
+مهینرخ,f,mahin rokh
 مهینزاد,m,mehin zad
 مهینشاد,m,mahin shad
 مهینفروغ,m,mahin forugh
@@ -20654,7 +20650,7 @@ name,gender,english_name
 مو سی,m,musi
 مو سی الرضا,m,moosir reza
 مو نا,f,moo na
-مو نسه,f,mouneseh
+مونسه,f,mouneseh
 موءدب,f,mo'addab
 موآنا,f,moana
 موافق,m,movaafagh
@@ -22252,8 +22248,8 @@ name,gender,english_name
 نعیما,m,na'eema
 نعیما,m,naeima
 نعیمان,m,na'iman
-نعیمه,m,naeime
-نعیمه,m,naimeh
+نعیمه,f,naeime
+نعیمه,f,naimeh
 نغم,m,nagham
 نغمه,f,naghme
 نغیمه,f,naghimeh
@@ -22272,7 +22268,6 @@ name,gender,english_name
 نفیس,m,nafis
 نفیسا,m,nafisa
 نفیسه,f,nafiseh
-نفیسه,m,nafise
 نفیسه زهرا,f,nafisehzahra
 نفیصه,f,nafiseh
 نفیل,m,nafil
@@ -22628,9 +22623,9 @@ name,gender,english_name
 نوشیر,m,nushir
 نوشیروان,m,nushirvan
 نوشین,m,nushin
-نوشین خانم,m,nushin khanom
+نوشین خانم,f,nushin khanom
 نوشین لب,f,nushin lab
-نوشیندخت,m,nushindokht
+نوشیندخت,f,nushindokht
 نوشینه,f,nushine
 نوشیکا,m,nushika
 نوطه,m,nothe
@@ -22758,7 +22753,6 @@ name,gender,english_name
 نیر,m,nayyer
 نیر اعظم,m,nir azam
 نیر الموک,m,nir al-molk
-نیر ه,f,nir ه
 نیراج,m,niraj
 نیراعظم,m,nirazham
 نیراعظم,m,nayyeraezam
@@ -22767,18 +22761,16 @@ name,gender,english_name
 نیراوان,m,niravan
 نیرم,m,neyram
 نیرمان,f,nirman
-نیره,m,nayyere
-نیره,f,nira
+نیره,f,nayyere
+نیره,f,nireh
 نیره بیگم,f,nireh bigom
 نیره خانم,f,nira khanom
 نیرو,m,niru
 نیروان,m,nirvan
-نیروان,f,nirvan
 نیروانا,f,nirvana
 نیرومند,m,nirumand
 نیری,m,neyri
 نیسا,f,nisa
-نیسا,m,neysa
 نیسان,m,neysan
 نیسانا,f,nisana
 نیستمان,m,nisteman
@@ -22883,7 +22875,7 @@ name,gender,english_name
 نیکآفرید,m,nikafarid
 نیکآهنگ,m,nikahang
 نیکآیین,m,nikayin
-نیکا,m,nika
+نیکا,f,nika
 نیکاختر,m,nikakhtar
 نیکاد,m,nikad
 نیکادل,m,nika del
@@ -22921,19 +22913,18 @@ name,gender,english_name
 نیکناز,f,niknaz
 نیکنام,m,niknam
 نیکو,f,niku
-نیکو,m,niku
+نیکو,f,nikoo
 نیکو آذر,f,niku azar
 نیکو لقا,f,niku laghā
 نیکوراد,m,nikurad
 نیکوزاد,f,nikoozad
-نیکوزهرا,m,nikuzahra
+نیکوزهرا,f,nikuzahra
 نیکوش,m,nikvash
-نیکوش,f,nikush
-نیکولقا,m,nikulegha
+نیکولقا,f,nikulegha
 نیکومهر,m,nikumehr
-نیکوناز,m,nikunaz
+نیکوناز,f,nikunaz
 نیکونام,m,nikunam
-نیکوچهر,m,nikuchehr
+نیکوچهر,f,nikuchehr
 نیکوکار,m,nikookar
 نیکپی,m,nikpey
 نیکچهر,f,nikchehr
@@ -22943,7 +22934,7 @@ name,gender,english_name
 نیکیا,m,nikiya
 نیکیاد,m,nikyad
 نیکیار,m,nikiyar
-نیکیتا,m,niki ta
+نیکیتا,f,nikita
 نیکین,f,nikin
 نیک‌روز,f,nik rooz
 نیک‌نام,m,nik nam
