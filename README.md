@@ -55,14 +55,16 @@ Future updates will focus on:
 - Refining data quality through ongoing cleaning and validation processes.
 
 ## Citaion
+To use please cite the following paper:
 ```
-@dataset{bijary_persian_gender_by_name_2024,
-  author       = {Farbod Bijary},
-  title        = {Persian Gender Detection by Name},
-  year         = {2024},
-  publisher    = {Hugging Face},
-  license      = {Apache-2.0},
-  url          = {https://huggingface.co/datasets/farbodbij/persian-gender-by-name},
+@misc{bijary2025agenticusernamesuggestionmultimodal,
+      title={Agentic Username Suggestion and Multimodal Gender Detection in Online Platforms: Introducing the PNGT-26K Dataset}, 
+      author={Farbod Bijary and Mohsen Ebadpour and Amirhosein Tajbakhsh},
+      year={2025},
+      eprint={2509.11136},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2509.11136}, 
 }
 ```
 ## Acknowledgments
